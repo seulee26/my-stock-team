@@ -1,0 +1,20 @@
+{
+  "name": "my-stock-team",
+  "version": "1.0.0",
+  "description": "단기 모멘텀(1주일 축) 관점의 한국·미국 대형주 리서치 팀. 역할별 분석가 서브에이전트(기술적·뉴스심리·리스크·펀더멘털) + 검증 애널리스트 + 디자인 PPTX 리포트 스킬 + 분석 파이프라인 커맨드.",
+  "keywords": [
+    "stock",
+    "equity-research",
+    "kospi",
+    "kosdaq",
+    "dart",
+    "finance",
+    "pptx",
+    "korean-stocks",
+    "momentum"
+  ],
+  "author": {
+    "name": "stock-team"
+  },
+  "license": "MIT"
+}

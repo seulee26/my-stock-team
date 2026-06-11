@@ -1,0 +1,6 @@
+# my-stock-team 플러그인 실행 의존성
+python-pptx>=0.6.21
+FinanceDataReader>=0.9.50
+pykrx>=1.0.45
+OpenDartReader>=0.2.2
+python-dotenv>=1.0.0

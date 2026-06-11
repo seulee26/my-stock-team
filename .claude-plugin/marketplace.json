@@ -1,0 +1,30 @@
+{
+  "name": "my-stock-team",
+  "owner": {
+    "name": "stock-team"
+  },
+  "metadata": {
+    "description": "stock-team 리서치 플러그인 설치 카탈로그",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "역할별 분석가 4종 + 검증 애널리스트 + report-pptx 스킬 + 분석 커맨드(analyze·verify). 단기 모멘텀 한국·미국 대형주 리서치 파이프라인.",
+      "keywords": [
+        "stock",
+        "equity-research",
+        "kospi",
+        "kosdaq",
+        "dart",
+        "pptx"
+      ],
+      "author": {
+        "name": "stock-team"
+      },
+      "license": "MIT"
+    }
+  ]
+}
